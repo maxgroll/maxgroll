@@ -1,5 +1,6 @@
-### Max von Groll ![robotic-hand](https://user-images.githubusercontent.com/85740167/229349811-892f2d4e-1f2a-4c12-ab99-68576c0b1c01.png)
+### Max von Groll
 
+- 📫 How to reach me: ...
 <!--
 **maxgroll/maxgroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
