@@ -1,6 +1,6 @@
 # <samp>Max von Groll</samp><img src="https://github.com/maxgroll/maxgroll/blob/main/assets/robotic-hand.gif" width="30px" height="30px">
 
-<font size="2"><samp>As becoming Software Developer, independent researcher of the relationship between human and technology and father of two kids, I am convinced that we can redefine and shape the future. All it takes is to understand technology as our essential form of interaction with our environment. An understanding of the relationship of human and technology must be a priority today.</samp></font>
+<samp style="color:green;font-weight:700;font-size:20px">As becoming Software Developer, independent researcher of the relationship between human and technology and father of two kids, I am convinced that we can redefine and shape the future. All it takes is to understand technology as our essential form of interaction with our environment. An understanding of the relationship of human and technology must be a priority today.</samp>
 <!--
 **maxgroll/maxgroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
