@@ -1,6 +1,6 @@
 ### Max von Groll
 
-- 📫 How to reach me: ...
+As becoming Software Developer, independent researcher of the relationship between human and technology and father of two kids, I am convinced that we can redefine and shape the future. All it takes is to understand technology as our essential form of interaction with our environment. An understanding of the relationship of human and technology must be a priority today.
 <!--
 **maxgroll/maxgroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
