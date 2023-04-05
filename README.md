@@ -5,7 +5,7 @@
 
 
 ```diff
-- anotehr red
+\- anotehr red
 + green
 - This is a red colored line
 + This is a green colored line
