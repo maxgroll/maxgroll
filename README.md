@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/85740167/230196793-4376c74e-b795-4ec5-b5ee-ae6227918a2b.jpg" width="200" align="right" >
 
 
-<samp>As becoming  __software developer__, independent __researcher__ of the relationship between human and technology and father of two kids, I am convinced that we can redefine and shape the future. <br> All it takes is to understand ___technology as our essential form of interaction with our environment___.</samp> <br>
+<samp>As becoming  __software developer__, independent __researcher__ of the relationship <br> between human and technology  and father of two kids, <br> I am convinced that we can redefine and shape the future. <br> All it takes is to understand <br> ___technology as our essential form of interaction with our environment___.</samp> <br>
 
 $\textcolor{#360ccc}{An \ understanding \ of \ the \ relationship \ of \ human \ and \ technology \ must \ be \ a \ priority \ today.}$
 
