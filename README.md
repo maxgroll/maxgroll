@@ -4,10 +4,11 @@
 #### <samp>__An understanding of the relationship of human and technology must be a priority today.__</samp>
 
 
+```diff
 - This is a red colored line
 + This is a green colored line
 @@ This is a purple colored line @@
-
+```
 
 
 <!--
