@@ -1,5 +1,7 @@
 # <samp>$\textcolor{#360ccc}{Max \ von \ Groll}$ </samp><img src="https://github.com/maxgroll/maxgroll/blob/main/assets/robotic-hand.png" width="30px" height="30px">
 
+
+
 <samp>As becoming __software developer__, independent __researcher__ of the relationship between human and technology and father of two kids, I am convinced that we can redefine and shape the future. <br> All it takes is to understand ___technology as our essential form of interaction with our environment___.</samp><br>
 
 $\textcolor{#360ccc}{An \ understanding \ of \ the \ relationship \ of \ human \ and \ technology \ must \ be \ a \ priority \ today.}$
