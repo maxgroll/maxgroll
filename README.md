@@ -1,11 +1,12 @@
 # <samp>$\textcolor{#360ccc}{Max \ von \ Groll}$ </samp><img src="https://github.com/maxgroll/maxgroll/blob/main/assets/robotic-hand.png" width="30px" height="30px">
 
+
 <img src="https://user-images.githubusercontent.com/85740167/230196793-4376c74e-b795-4ec5-b5ee-ae6227918a2b.jpg" width="200" align="right" >
 
 
-<samp>As a becoming  __software developer__, father of two kids and independent __researcher__ of the relationship between human and technology, I have to believe that we can redefine and shape the future. I am convinced that all it takes is to ___understand technology as our essential form of interaction with our environment___.</samp> <br>
+> <samp>As a becoming  __software developer__, father of two kids and independent __researcher__ of the relationship between human and technology, I have to believe that we can redefine and shape the future. I am convinced that all it takes is to ___understand technology as our essential form of interaction with our environment___.</samp><br><br>$\textcolor{#360ccc}{An \ understanding \ of \ the \ relationship \ of \ human \ and \ technology \ must \ be \ a \ priority \ today.}$
 
-$\textcolor{#360ccc}{An \ understanding \ of \ the \ relationship \ of \ human \ and \ technology \ must \ be \ a \ priority \ today.}$
+> --- 
 
 
 
