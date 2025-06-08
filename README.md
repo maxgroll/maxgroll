@@ -1,4 +1,4 @@
-# <samp>$\textcolor{#360ccc}{Max \ von \ Groll}$ </samp><img src="https://github.com/maxgroll/maxgroll/blob/main/assets/robotic-hand.png" width="30px" height="30px">
+# <samp>$\textcolor{`#360ccc`}{Max \ von \ Groll}$ </samp><img src="https://github.com/maxgroll/maxgroll/blob/main/assets/robotic-hand.png" width="30px" height="30px">
 
 
 <img src="https://user-images.githubusercontent.com/85740167/230196793-4376c74e-b795-4ec5-b5ee-ae6227918a2b.jpg" width="200" align="right" >
