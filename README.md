@@ -5,8 +5,9 @@
 
 
 <samp>As a becoming  __software developer__, father of two kids and independent __researcher__ of the relationship between human and technology, I have to believe that we can redefine and shape the future. I am convinced that all it takes is to ___understand technology as our essential form of interaction with our environment___.</samp>
+
  
->## An understanding of the relationship of human and technology must be a priority today.
+>#### An understanding of the relationship of human and technology must be a priority today.
 
 
 
